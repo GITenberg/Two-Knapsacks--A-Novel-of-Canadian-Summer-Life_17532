@@ -1,0 +1,27 @@
+_repo: Two-Knapsacks--A-Novel-of-Canadian-Summer-Life_17532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, John
+    alias: Bell, J. Cawdor
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '7440'
+    url: http://www.gutenberg.org/2009/agents/7440
+description: ''
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada -- Fiction'
+title: 'Two Knapsacks: A Novel of Canadian Summer Life'
+url: http://www.gutenberg.org/ebooks/17532
